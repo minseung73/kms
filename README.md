@@ -9,9 +9,9 @@ Comments나 Pull requests는 언제나 환영합니다.
 
 # 목차
 # Basic_grammar
-# class
-# for
-# function
-# if
-# practice
-# while
+  * class
+  * for
+  * function
+  * if
+  * practice
+  * while
